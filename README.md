@@ -19,3 +19,14 @@ remote repository：远程仓库__
 相互之间可以用这样一张图来表示清楚：  
 ![](https://www.runoob.com/wp-content/uploads/2015/02/git-command.jpg) ~~其实是照搬的~~
 >>> ### __总的来说：__ git是为我们从远程仓库下载源代码以及上传源代码至远程仓库的一个平台。
+>> ## __学习markdown__
+>> 说实话我对markdown了解已经很久了~~但我不知道哈哈~~（我开始在洛谷上编辑的时候用的就是markdown的语法但是我并不知道这叫markdown哈哈）  
+>> ~~然后我很愉快的发现markdown学完了~~  
+>> 总的说学习markdown的过程很轻松，只需要复习一下就可以了
+>>> ### __对于markdown的展示__  
+>>> 没啥好说的，如上以及如下咯
+>>> ![](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fwww.farennews.com%2Fmagazine%2Fpic%2F2021-07%2F20%2F95cce7c2-fb91-4a96-bb23-c4b8b3a01e59bb924859-f977-49bd-8436-dd628bde76c6.jpg&refer=http%3A%2F%2Fwww.farennews.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1666532534&t=ab65eb3229d69d7f22cbcece310eb0c0)  
+>> ## __以后想学习的__  
+>>> 当然是了解更多关于编程的实践以及对git的运用，主要是想在大学里掌握一门课程外的技能，更多的就是想将我之前学到的c++试图运用到现实生活中便利自己，同时积累经验为以后工作做打算。  
+>***
+> # __以上便是我的任务一的全部内容了，期待得到面试官的认可__
