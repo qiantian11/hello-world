@@ -1,5 +1,6 @@
 # hello-world
-*第一个仓库##> # __对于git以及markdown的学习__
+*第一个仓库##>
+> # __对于git以及markdown的学习__
 >> ## __首先自我介绍一下：__
 >我是环境工程2214班的周擎天，面对git以及markdown这样的用于编辑便利生活的软件我有十分强烈的兴趣。  
 ~~我曾接触过数年的c++程序编译并获得大大小小一些奖项~~，但我一直抱有疑惑：我如何在实际生活中运用我所学的c++知识？  
@@ -30,7 +31,7 @@ remote repository：远程仓库__
 and  
 $lim_{x \to ∞} (1+\frac{1}{x})^x=e$  
 刚刚高数课上学习的极限基本公式！！！
->>> ![](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fwww.farennews.com%2Fmagazine%2Fpic%2F2021-07%2F20%2F95cce7c2-fb91-4a96-bb23-c4b8b3a01e59bb924859-f977-49bd-8436-dd628bde76c6.jpg&refer=http%3A%2F%2Fwww.farennews.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1666532534&t=ab65eb3229d69d7f22cbcece310eb0c0)  
+>>> ![](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.duoziwang.com%2F2019%2F02%2F03231453295395.jpg&refer=http%3A%2F%2Fimg.duoziwang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1666533889&t=8df6d4849ec4ae2b9f8d5cc843f5e10e)  
 >> ## __以后想学习的__  
 >>> 当然是了解更多关于编程的实践以及对git的运用，主要是想在大学里掌握一门课程外的技能，更多的就是想将我之前学到的c++试图运用到现实生活中便利自己，同时积累经验为以后工作做打算。  
 >***
